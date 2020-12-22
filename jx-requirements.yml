@@ -11,7 +11,7 @@ environments:
 - key: staging
 - key: production
 ingress:
-  domain: ""
+  domain: "jenkinsx.ingress.k8s.com"
   externalDNS: false
   tls:
     email: ""
